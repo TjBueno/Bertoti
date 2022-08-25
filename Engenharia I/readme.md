@@ -3,3 +3,17 @@
 Titus Winters, Software Engineering at Google
 
 A engenharia de software é algo mais complexo do que apenas a programação propriamente dita, ela engloba outras coisas como a modificação e a manutenção, nela existem outras preocupações como o tempo necessário para a execução das tarefas assim como a escala e eficiência para um bom planejamento e finalização das mesmas. 
+
+CICLO DE VIDA
+
+Atividade de Requisitos (transportadora):
+  Funcionais:
+  - O funcionário da transportadora pode cadastrar o endereço do cliente e do fornecedor;
+  - O funcionário da transportadora pode consultar se o pedido ja foi entregue ou não;
+  - O funcionário da transportadora pode ver o condutor e o veículo do transporte.
+    
+  Não-Funcionais ():
+  - Sistema de fácil manuseio e intuitivo;
+  - Sistema leve que não necessite de um hardware muito potente.
+ 
+  

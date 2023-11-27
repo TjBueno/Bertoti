@@ -1,6 +1,6 @@
 public class Moto implements Plano {
     private View view;
-    private Streaming streaming;
+    private Seguro seguro;
 
     public void assinarPlano() {
         System.out.println("Você contratou o seguro de moto.");

@@ -1,6 +1,6 @@
 public interface Plano{
     private View view;
-    private Streaming streaming;
+    private Seguro seguro;
     
     public void assinarPlano();
   }
